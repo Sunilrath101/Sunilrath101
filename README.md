@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilrath101&label=Profile%20views&color=0e75b6&style=flat" alt="sunilrath101" /> </p>
 
+
 - 🌱  I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS**, **TypeScript**
 - 👨‍💻 All of my projects are available at [Portfolio](https://sunilrath101.github.io/)
-- 👨‍💻 All of my projects are available at <a href="https://sunilrath101.github.io" target="__blank" rel=”noreferrer”  >**Portfolio**</a>
 - ✉️ You can contact me at **sunilrath.ssr@gmail.com**
 - 🤝 I'm open to collaborating on Interesting Projects
 - ⚡ Fun fact -->  **65.36%** developers use **JavaScript** among programming languages worldwide as of 2022
@@ -48,7 +48,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br/>
-<br/>
+
       
       
  
@@ -100,7 +100,7 @@
 </a>      
       
  
-
+<!-- - 👨‍💻 All of my projects are available at <a href="https://sunilrath101.github.io" target="__blank" rel=”noreferrer”  >**Portfolio**</a> -->
 <!---
 sunilath101/sunilath101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
